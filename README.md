@@ -38,6 +38,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+One challenge that I faced is that I was initially referring to the wrong movie data type by referring to the graphic type. This led to my inablity to refer to the basic movie functions but with the assistance of my table mates and instructors we were able to determine the root of the issue within the beginning of the coding process.
+
 ## Open-source libraries used
 
 - [Android Async HTTP](https://github.com/loopj/android-async-http) - Simple asynchronous HTTP requests with JSON parsing
